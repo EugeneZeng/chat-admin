@@ -17,8 +17,8 @@
                     placeholder="密码">
                 </b-form-input>
             </b-form-group>
-            <b-button type="submit" varient="primary">登陆</b-button>
-            <b-button type="reset" varient="secondry">重置</b-button>
+            <b-button type="submit" variant="primary">登陆</b-button>
+            <b-button type="reset" variant="secondry">重置</b-button>
         </b-form>   
     </div>
 </template>
