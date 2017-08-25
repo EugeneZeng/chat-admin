@@ -25,7 +25,7 @@ export default {
             name: 'Eugene',
             showDismissibleAlert: false,
             dismissCountDown: 0,
-            dismissSecs: 10,
+            dismissSecs: 10
         };
     },
     methods: {
@@ -34,7 +34,7 @@ export default {
         },
         showAlert() {
             this.dismissCountDown = this.dismissSecs;
-        },
-    },
+        }
+    }
 };
 </script>

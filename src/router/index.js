@@ -10,12 +10,12 @@ export default new Router({
         {
             path: '/',
             name: 'Hello',
-            component: Hello,
+            component: Hello
         },
         {
             path: '/login',
             name: 'Login',
-            component: Login,
-        },
-    ],
+            component: Login
+        }
+    ]
 });
